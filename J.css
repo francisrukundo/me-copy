@@ -1,0 +1,111 @@
+.maindiv{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    background-color:black;
+    justify-content: center;
+    align-items: center;
+    border:black solid 5px ;
+
+}
+h1{
+    
+    margin-top: 30px;
+    margin-left: 67px;
+    font-size: 20px;
+}
+.J{
+    color: white;
+}
+.BF{
+    color: white;
+}
+.NOV{
+    color: orange;
+    background-color: white;
+}
+.CO{
+    color: white;
+    display: inline;
+}
+.S{
+    color: white;
+    background-color: greenyellow;
+}
+.no{
+    color: orange;
+
+
+    
+}
+.second{
+    display: flex;
+    background-color: antiquewhite;
+    border:antiquewhite solid 5px;
+}
+.sell{
+    color: orange;
+    justify-content: left;
+}
+.jumia{
+    color: black;
+    justify-content: center;
+    text-align: left;
+
+}
+.food{
+    color: dimgray;
+    justify-content: center;
+}
+.pay{
+    color: dimgray;
+    justify-content: center;
+}
+.force{
+    color: dimgray;
+    justify-content: center;
+}
+.third{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.butn{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    border-radius: 10%;
+    border-color: orange;
+}
+.sh{
+    width: 500px;
+    height: 40px;
+}
+.mine{
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+
+}
+.see{
+    display: flex;
+}
+.person{
+    display: flex;
+}
+.cart{
+    display: flex;
+}
+.jum{
+    justify-content: left;
+    align-items: center;
+}
+.call{
+    display: inline-block;
+}
